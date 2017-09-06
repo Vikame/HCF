@@ -1,0 +1,7 @@
+name: HCF
+version: 1.0.0
+author: ThreadSafe
+main: me.threadsafe.hcf.HCF
+commands:
+  adminfaction:
+    aliases: [af]

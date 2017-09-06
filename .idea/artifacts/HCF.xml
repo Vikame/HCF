@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HCF">
+    <output-path>$USER_HOME$/Desktop/server/plugins</output-path>
+    <root id="archive" name="HCF.jar">
+      <element id="module-output" name="ActualHCF" />
+    </root>
+  </artifact>
+</component>

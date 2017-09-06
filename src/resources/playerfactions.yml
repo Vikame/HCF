@@ -1,0 +1,16 @@
+uuid:
+  tag: AmazingFaction
+  dtr: 1.01
+  freeze: 0
+  members: {}
+  claim:
+    minx: -10
+    minz: -10
+    maxx: 10
+    maxz: 10
+    home:
+      x: 0
+      y: 150
+      z: 0
+  relations:
+    AmazingFaction: MEMBER

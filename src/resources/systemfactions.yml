@@ -1,0 +1,7 @@
+uuid:
+  internal: system_wilderness
+  tag: &2Wilderness
+  safezone: false
+  auto_created: true
+  members:
+  - '04391752-3ca7-46ac-a17e-e541dada2ed5'
